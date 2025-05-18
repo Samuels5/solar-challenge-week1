@@ -118,6 +118,3 @@ See the challenge instructions for detailed task breakdowns.
 
 ---
 
-## Contact
-
-For questions, open an issue or contact the facilitators listed in the challenge brief.
