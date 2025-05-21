@@ -40,6 +40,10 @@ This repository contains solutions for the Solar Data Discovery Challenge (Week 
 ```
 
 ---
+## Demo
+![Screenshot 2025-05-21 123345](https://github.com/user-attachments/assets/df437dca-dc28-401d-9cae-6b6306da4b7a)
+![Screenshot 2025-05-21 123405](https://github.com/user-attachments/assets/90c55502-bc13-4af3-816b-a8c73df2db8f)
+
 
 ## Setup Instructions
 
